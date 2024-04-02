@@ -1,0 +1,21 @@
+main.root{
+    padding: 4px 1rem;
+    display: flex;
+}
+
+main article{
+    width: 60%;
+}
+
+main figure{
+    width: 40%;
+}
+
+figure img.enio{
+    width: 100%;
+    height: 350px;
+}
+
+main{
+    padding: 4px 1rem;
+}

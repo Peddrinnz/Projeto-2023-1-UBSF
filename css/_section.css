@@ -1,0 +1,24 @@
+section{
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+@media screen and (min-width: 768px){
+    section{
+       display: flex; 
+    }    
+}
+
+@media screen and (min-width: 900px){
+    section{
+       width:  840px;
+    }
+    
+}
+
+@media screen and (min-width: 1200px){
+    section{
+       width: 1240px;
+    }
+}

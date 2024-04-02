@@ -1,0 +1,18 @@
+header{
+    background-color: midnightblue;
+    color: whitesmoke;
+    font-weight: normal;
+    text-align: justify;
+    padding: 0.4rem 1rem;
+    position: sticky;
+    top: 0;
+}
+
+header h1{
+    margin-bottom: 0.5rem;
+}
+
+header h2{
+    font-size: 1.4rem;
+    color: deepskyblue;
+}
